@@ -222,4 +222,8 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
 .flaticon-right-arrow:before {
   content: "";
 }
+
+.flaticon-html:before {
+  content: "";
+}
 /*# sourceMappingURL=flaticon.css.map */
