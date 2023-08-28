@@ -3204,7 +3204,7 @@ About
   position: absolute;
   bottom: -80px;
   left: -60px;
-  max-width: 250px;
+  max-width: 190px;
   border: 17px solid #ffff;
 }
 
@@ -3236,7 +3236,7 @@ About
 
 @media (max-width: 390px) {
   .about__area-left-image-small-img {
-    max-width: 200px;
+    max-width: 190px;
   }
 }
 
@@ -5651,7 +5651,7 @@ Consulting
   position: absolute;
   top: -30px;
   left: -60px;
-  max-width: 250px;
+  max-width: 190px;
   border: 17px solid #ffff;
 }
 
